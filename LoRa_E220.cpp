@@ -1,3 +1,6 @@
+// small changes just to see that if any changes can got to github
+
+
 /*
  * EBYTE LoRa E2200 Series
  * https://www.mischianti.org/category/my-libraries/lora-e220-devices/
@@ -28,6 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
+
 
 #include "LoRa_E220.h"
 
